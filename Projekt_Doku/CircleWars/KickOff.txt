@@ -1,0 +1,4 @@
+Kickoff WS 01.10.2014 - 05.10.2014
+----------------------------------
+- restart CircleWars 03.10.2014
+- init Git for implementing remote workflow
