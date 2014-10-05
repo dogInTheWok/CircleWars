@@ -1,0 +1,44 @@
+unten: Rundholz Durchmesser 150mm
+Stange: Metallrohr 10mm, hohl; Schraube + Mutter (5mm, SW 9) zur Befestigung am Grundkörper; Absätze: Unterlegscheibe, angelötet; Lötzinn;
+Mitte: Rundholz, Mutter, Schraube + Mutter
+oben: oben wie Mitte
+Stempel: Feder 70mm-90mm, Drahtdurchmesser ~1mm; Stempelkörper Rundholz, Kontaktschließung dünnes Kupferblech/Folie <<1mm, Alufolie
+
+Sperrholzplatte ~5mm, 0.5m²
+Kupferdraht verschiedene aderquerschnitte, 0.5mm²-2.5mm²
+Stromkabel 2.5mm²
+Konstantandraht (Conrad) 4 Ohm -> 16 Ohm/m, 230V -> 265 Ohm
+Isolierlack Conrad
+
+Teflonfolie
+http://www.ammerflon.de/download/hatk/ptfe-dp.htm
+
+Relais
+Serie 36 DC-Printrelais Finder 36.11.9.012.4011 12 V/DC 1 Wechsler 10 A 30 V/DC/250 V/AC (AC1) 2500 VA
+http://www.conrad.de/ce/de/product/503078/Serie-36-DC-Printrelais-Finder-361190124001-12-VDC-1-Wechsler-10-A-30-VDC250-VAC-AC1-2500-VA?ref=searchDetail
+
+
+
+Werkzeug
+Multimeter 	Matze
+Kiste
+
+
+
+
+
+
+
+
+Konstantandraht (Conrad) 4 Ohm -> 16 Ohm/m, 230V -> 265 Ohm
+Isolierlack Conrad
+
+Teflonfolie
+http://www.ammerflon.de/download/hatk/ptfe-dp.htm
+
+Widerstände für Spannungsteiler
+1kOhm, 1.7kOhm
+4.7kOhm, 8kOhm
+
+
+TOO BIG TO FAIL - PENISPUMPENSHOP24.de
