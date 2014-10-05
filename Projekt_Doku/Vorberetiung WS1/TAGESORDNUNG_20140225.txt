@@ -1,5 +1,0 @@
-1. Begrüßung
-2. Feststellung der Anwesenheit
-3. einkaufszettel
-4. Sonstiges
-5. Verarbschiedung
