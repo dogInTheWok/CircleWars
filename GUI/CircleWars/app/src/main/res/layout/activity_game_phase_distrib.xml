@@ -1,0 +1,36 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/vertical_margin_game"
+    android:paddingBottom="@dimen/vertical_margin_game"
+    tools:context="com.example.linda.circlewars.GamePhaseDistrib">
+
+    <TextView
+        android:id="@id/distribMsg"
+        android:text="@string/distribMsg"
+        android:textSize="@dimen/msgNormal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="@dimen/vertical_margin_game"
+        android:layout_centerHorizontal="true"
+        android:onClick="distribClick"/>
+    <ImageView
+        android:id="@id/cwImg"
+        android:layout_width="@dimen/hMarginField"
+        android:layout_height="@dimen/hMarginField"
+        android:src="@drawable/circle1"
+        android:layout_below="@id/distribMsg"
+        android:layout_centerHorizontal="true"
+        android:onClick="distribClick" />
+    <ImageView
+        android:id="@id/forceTokenX"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <ImageView
+        android:id="@id/forceTokenO"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</RelativeLayout>

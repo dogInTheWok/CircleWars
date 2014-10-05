@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="title" type="id">cw</item>
+    <item name="buttonStart" type="id" />
+    <item name="distribMsg" type="id">Touch to send your forces into battle</item>
+    <item name="cwImg" type="id" />
+    <item name="forceTokenX" type="id" />
+    <item name="forceTokenO" type="id" />
+</resources>

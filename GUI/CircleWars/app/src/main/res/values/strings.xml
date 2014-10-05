@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CircleWars</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="cwWelcome">CIRCLE WARS</string>
+    <string name="buttonStartTxt">Start Game</string>
+    <string name="title_activity_game_phase_distrib">gamePhaseDistrib</string>
+    <string name="distribMsg">Touch a field \n to send your forces into battle</string>
+
+</resources>
